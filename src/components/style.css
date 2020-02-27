@@ -1,0 +1,85 @@
+body{
+    margin:0;
+    background: url('https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') no-repeat center center fixed ;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+ 
+    background-color: rgb(228, 224, 224);
+    background-size: cover;
+}
+
+h1{
+    color: rgb(188, 209, 148);
+    margin-left:520px;
+    font-family: fantasy;
+}
+p{
+    text-align: center;
+   
+}
+.form-container{
+    margin-top:20px;
+    background-color: transparent;
+   
+}
+form input{
+    
+    margin:10px;
+    margin-left:320px;
+    border-color: rgb(188, 209, 148);
+    border-radius: 6px;
+    background-color: rgba(114, 107, 107, 0.452);
+
+}
+form input:focus{
+    background-color: rgba(114, 107, 107, 0.452);
+}
+
+
+.temp1{
+    display: inline;
+
+}
+.image1{
+ height:80px;
+ width:80px;
+text-align: center;
+
+}
+.image2{
+
+ 
+
+}
+.divtemp{
+    height: 250px;
+    width: 200px;
+   background-color:  rgba(163, 207, 201, 0.603);
+   border-radius: 9px;
+    margin: 3px;
+    float: left;
+    margin-top:40px;
+   margin-left: 20px;
+   margin-bottom: 40px;
+   color:rgb(233, 231, 231);
+   text-align: center;
+   
+  
+   
+}
+
+.divtemp2{
+  
+    border-radius: 14px;
+    align-items: center;
+    margin-top: 40px;
+    color:black;
+    background-color: rgba(54, 102, 104, 0.5);
+  }
+
+.styleinline{
+    color:'white';
+    text-decoration: none;
+}
